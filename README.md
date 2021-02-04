@@ -2,7 +2,7 @@
 
 This repository containts code for the paper "NAS-Bench-301 and the Case for Surrogate Benchmarks for Neural Architecture Search".
 
-The surrogate models for v1.0 can be downloaded on [figshare](https://figshare.com/articles/software/nasbench301_models_v1_0_zip/13061837). We also release the [full dataset](https://figshare.com/articles/dataset/nasbench301_full_data/13285934) including training logs, final performances and other metrics such as model parameters (a [lightweight version](https://figshare.com/articles/dataset/nasbench301_data/13247021) without training logs is also available).
+The surrogate models for version 1.0 can be downloaded on [figshare](https://figshare.com/articles/software/nasbench301_models_v1_0_zip/13061837). We also release the [full dataset](https://figshare.com/articles/dataset/nasbench301_full_data/13285934) including training logs, final performances and other metrics such as model parameters (a [lightweight version](https://figshare.com/articles/dataset/nasbench301_data/13247021) without training logs is also available).
 
 To install all requirements (this may take a few minutes), run
 
